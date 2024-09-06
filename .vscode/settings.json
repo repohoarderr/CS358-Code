@@ -1,0 +1,7 @@
+{
+    "editor.inlayHints.enabled": "off",
+    "java.project.sourcePaths": [
+        "First Testing"
+    ],
+    "java.project.referencedLibraries": []
+}
